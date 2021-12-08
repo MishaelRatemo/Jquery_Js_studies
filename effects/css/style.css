@@ -1,0 +1,13 @@
+main{
+    height: 100vh;
+}
+
+#texthide{
+    display: none;
+}
+#isvision{
+    display: none;
+}
+#isMission{
+    opacity: .3;
+}

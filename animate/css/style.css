@@ -1,0 +1,24 @@
+main{
+    /* height: 100vh; */
+}
+
+#texthide{
+    display: none;
+}
+#isvision{
+    display: none;
+}
+#isMission{
+    opacity: .3;
+}
+#image{
+    position: relative;
+}
+#image img{
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    mix-blend-mode:color-burn;
+
+}

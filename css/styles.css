@@ -1,0 +1,15 @@
+.subpara1{
+    display: none;
+}
+
+#about{
+    display: none;
+}
+
+.skyblue-background{
+    background-color: skyblue;
+}
+.bdy-color{
+    background-color: rgb(8, 8, 8);
+    color: wheat;
+}

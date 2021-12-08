@@ -1,0 +1,23 @@
+main{
+    height: 90vh;
+    background-color:blueviolet;
+    position: relative;
+    padding:5%;
+    transition: 2s;
+
+}
+.form-check{
+    position: absolute;
+    top: 0;
+    right: 1%;
+    
+    font-weight: 900;
+}
+.darktheme{
+    color:white;
+    background-color:black;
+    transition: 2s;
+}
+.Xcolor{
+    color:white;
+}
